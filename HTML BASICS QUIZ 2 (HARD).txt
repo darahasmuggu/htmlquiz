@@ -1,0 +1,158 @@
+﻿ What is the purpose of a version control system?
+a) To keep track of project history
+b) To format HTML documents
+c) To host web pages
+d) To add interactivity to web pages
+Answer: a) To keep track of project history
+
+Which term refers to a collection of related web pages?
+a) URL
+b) HTTP
+c) Website
+d) HTML
+Answer: c) Website
+
+Which term refers to a programming technique that allows web pages to dynamically update without a full page reload?
+a) AJAX
+b) API
+c) CMS
+d) SQL
+Answer: a) AJAX
+ Which language is used for defining the structure and content of web pages?
+a) HTML
+b) CSS
+c) JavaScript
+d) Python
+Answer: a) HTML
+
+What does CSS stand for?
+a) Cascading Style Sheet
+b) Creative Style Selector
+c) Computer Style Syntax
+d) Content Styling System
+Answer: a) Cascading Style Sheet
+
+Which HTML tag is used to link an external CSS file to an HTML document?
+a) <style>
+b) <link>
+c) <script>
+d) <css>
+Answer: b) <link>
+
+Which CSS property is used to change the color of text?
+a) font-color
+b) text-style
+c) color
+d) text-color
+Answer: c) color
+
+What does the acronym "URL" stand for?
+a) Uniform Resource Locator
+b) Universal Rendering Language
+c) United Resource Listing
+d) User Registration Link
+Answer: a) Uniform Resource Locator
+
+Which HTTP method is used to retrieve data from a server?
+a) GET
+b) POST
+c) DELETE
+d) PUT
+Answer: a) GET
+
+Which programming language is primarily used for adding interactivity to web pages?
+a) HTML
+b) CSS
+c) JavaScript
+d) PHP
+Answer: c) JavaScript
+
+What is the purpose of the <script> tag in HTML?
+a) To define a CSS style rule
+b) To include an external JavaScript file
+c) To insert an image
+d) To create a hyperlink
+Answer: b) To include an external JavaScript file
+
+Which CSS property is used to adjust the spacing between lines of text?
+a) font-spacing
+b) text-spacing
+c) line-height
+d) word-spacing
+Answer: c) line-height
+
+Which HTML tag is used to define an unordered list?
+a) <ul>
+b) <ol>
+c) <li>
+d) <list>
+Answer: a) <ul>
+
+Which CSS property is used to change the size of an element's font?
+a) font-size
+b) text-size
+c) font-style
+d) text-style
+Answer: a) font-size
+
+What does the term "responsive design" refer to in web development?
+a) Designing websites that are visually appealing
+b) Creating websites with interactive features
+c) Optimizing websites for search engines
+d) Designing websites that adapt to different screen sizes and devices
+Answer: d) Designing websites that adapt to different screen sizes and devices
+
+What is the purpose of the "box-sizing" CSS property?
+a) To control the background color of an element
+b) To specify the padding and border size of an element
+c) To adjust the margin of an element
+d) To change the font style of an element
+Answer: b) To specify the padding and border size of an element
+
+Which CSS selector targets an element with a specific class name?
+a) #
+b) .
+c) *
+d) :
+Answer: b) .
+
+Which HTML tag is used to display an image on a web page?
+a) <img>
+b) <src>
+c) <image>
+d) <picture>
+Answer: a) <img>
+
+What is the purpose of the "display: none;" CSS property?
+a) To hide an element from the web page
+b) To change the font family of an element
+c) To increase the font size of an element
+d) To underline the text within an element
+Answer: a                                                                                                                                                                                                                   Which CSS property is used to control the order of layered elements?
+a) z-index
+b) position
+c) display
+d) order
+Answer: a) z-index
+
+What does the acronym "API" stand for in web development?
+a) Application Programming Interface
+b) Advanced Programming Interface
+c) Automated Programming Interface
+d) Application Protocol Interface
+Answer: a) Application Programming Interface
+
+Which programming language is commonly used for server-side web development?
+a) JavaScript
+b) HTML
+c) CSS
+d) PHP
+Answer: d) PHP
+
+What is the purpose of the <form> tag in HTML?
+a) To define a table on a web page
+b) To include an external JavaScript file
+c) To create a hyperlink
+d) To create a user input form
+Answer: d) To create a user input form
+

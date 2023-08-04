@@ -1,0 +1,164 @@
+﻿What is the purpose of the doctype declaration in HTML?
+A) It specifies the version of HTML being used.
+B) It defines the structure of the web page.
+C) It identifies the browser to render the web page.
+D) It indicates the file type of the document.
+
+Answer: C
+
+Which version of HTML is recommended for use in the tutorial?
+A) HTML 4.01
+B) HTML 5
+C) HTML 6
+D) HTML 7
+
+Answer: B
+
+What is the role of the head section in an HTML document?
+A) It contains the visible content of the web page.
+B) It defines the layout and structure of the web page.
+C) It provides information about the page itself.
+D) It handles the interactive features of the web page.
+
+Answer: C
+
+Which HTML element is used to create a paragraph?
+A) <p>
+B) <h1>
+C) <div>
+D) <span>
+
+Answer: A
+
+What is the purpose of the body section in an HTML document?
+A) It defines the page title.
+B) It contains the visible content of the web page.
+C) It specifies the version of HTML being used.
+D) It identifies the browser to render the web page.
+
+Answer: B
+
+Which HTML tag is used to create a heading?
+A) <p>
+B) <h1>
+C) <div>
+D) <span>
+
+Answer: B
+
+What does the h1 tag represent in HTML?
+A) A main heading
+B) A subheading
+C) A paragraph
+D) A link
+
+Answer: A
+
+Which tag is used to create a section under the main heading?
+A) <h2>
+B) <h3>
+C) <h4>
+D) <h5>
+
+Answer: A
+
+What information does the title element in the head section display?
+A) The website's URL
+B) The web browser's name
+C) The page title in the browser's title bar
+D) The page's content description
+
+Answer: C
+
+What does the p element represent in HTML?
+A) A heading
+B) A paragraph
+C) A link
+D) An image
+
+Answer: B
+
+Which HTML element is used to define a hyperlink?
+A) <a>
+B) <p>
+C) <h1>
+D) <img>
+
+Answer: A
+
+How can you adjust the font size of a paragraph in HTML?
+A) Using the <h> tag
+B) Using the <font> tag
+C) Using CSS styling
+D) Using the <size> attribute
+
+Answer: C
+
+What is the purpose of the doctype declaration in HTML?
+A) It specifies the version of HTML being used.
+B) It defines the structure of the web page.
+C) It identifies the browser to render the web page.
+D) It indicates the file type of the document.
+
+Answer: C
+What is the purpose of the HTML element in an HTML document?
+A) It defines the page structure.
+B) It contains the visible content of the web page.
+C) It identifies the language of the web page.
+D) It specifies the version of HTML being used.
+
+Answer: A
+
+Which section of an HTML document contains information about the page itself?
+A) <body> section
+B) <head> section
+C) <html> section
+D) <title> section
+
+Answer: B
+
+How is a paragraph element represented in HTML?
+A) <paragraph>
+B) <text>
+C) <p>
+D) <para>
+
+Answer: C
+
+Which HTML tag is used to create the largest heading?
+A) <h1>
+B) <h2>
+C) <h3>
+D) <h4>
+
+Answer: A
+
+What is the purpose of the doctype declaration in HTML?
+A) It defines the structure of the web page.
+B) It specifies the version of HTML being used.
+C) It identifies the browser to render the web page.
+D) It indicates the file type of the document.
+
+Answer: C
+
+What is the purpose of the head section in an HTML document?
+A) It contains the visible content of the web page.
+B) It defines the layout and structure of the web page.
+C) It provides information about the page itself.
+D) It handles the interactive features of the web page.
+
+Answer: C
+
+Which HTML tag is used to create a paragraph?
+A) <p>
+B) <h1>
+C) <div>
+D) <span>
+
+Answer: A
+
+
+
+
+
+

@@ -1,0 +1,146 @@
+﻿What is the purpose of the doctype declaration in HTML?
+a) To specify the current HTML version
+b) To identify the type of file being opened by the browser
+c) To define the structure of the HTML document
+d) To tell the browser which programming language to use
+Answer: b) To identify the type of file being opened by the browser
+
+What is the benefit of using "HTML" in the doctype declaration instead of specifying a version number?
+a) Ensures compatibility with future HTML versions
+b) Allows for more flexibility in updating HTML code
+c) Simplifies the process of updating the doctype declaration
+d) Guarantees correct rendering of the web page by the browser
+Answer: a) Ensures compatibility with future HTML versions
+
+What information does the head section of an HTML document contain?
+a) Main content of the web page
+b) Version of HTML being used
+c) Structure and layout of the web page
+d) Information about the web page, such as the title
+Answer: d) Information about the web page, such as the title
+
+Which HTML element is used to create a paragraph of text?
+a) <p>
+b) <h1>
+c) <title>
+d) <body>
+Answer: a) <p>
+
+What is the function of the <title> element in the head section of an HTML document?
+a) Sets the font style for the entire web page
+b) Defines the main heading of the web page
+c) Displays the title of the web page in the browser's title bar
+d) Specifies the language used in the web page
+Answer: c) Displays the title of the web page in the browser's title bar
+
+Which HTML element is used to create a heading?
+a) <title>
+b) <body>
+c) <h1>
+d) <p>
+Answer: c) <h1>
+
+What is the purpose of the body section in an HTML document?
+a) Contains the metadata of the web page
+b) Defines the structure and layout of the web page
+c) Displays the main content of the web page
+d) Specifies the version of HTML being used
+Answer: c) Displays the main content of the web page
+
+How can you identify a subsection within a section of an HTML document?
+a) By using a smaller font size for the subsection heading
+b) By placing the subsection inside a separate <div> element
+c) By using a different HTML element for the subsection heading
+d) By indenting the subsection content
+Answer: c) By using a different HTML element for the subsection heading
+
+Which HTML tag is used to create a hyperlink?
+a) <link>
+b) <a>
+c) <href>
+d) <url>
+Answer: b) <a>
+
+What is the purpose of the <meta> tag in the head section of an HTML document?
+a) Specifies the background color of the web page
+b) Defines the character encoding used in the web page
+c) Displays a description of the web page in search engine results
+d) Sets the font style for the entire web page
+Answer: b) Defines the character encoding used in the web page
+
+How can you change the font size of a paragraph in HTML?
+a) By using the <font> element
+b) By applying a CSS style to the <p> element
+c) By using the <size> attribute in the <p> element
+d) By adjusting the browser settings
+Answer: b) By applying a CSS style to the <p> element
+
+Which HTML element is used to create the largest heading?
+a) <h1>
+b) <h2>
+c) <h3>
+d) <h4>
+Answer: a) <h1>
+
+What is the purpose of the <doctype> declaration in HTML?
+a) It specifies the version of HTML being used.
+b) It identifies the programming language used in the web page.
+c) It defines the structure and layout of the web page.
+d) It tells the browser how to interpret the HTML document.
+Answer: d) It tells the browser how to interpret the HTML document.
+
+What is the role of the <head> section in an HTML document?
+a) It contains the main content of the web page.
+b) It specifies the version of HTML being used.
+c) It provides information about the web page, such as the title.
+d) It defines the structure and layout of the web page.
+Answer: c) It provides information about the web page, such as the title.
+
+Which HTML element is used to create a wrapper for the entire HTML document?
+a) <body>
+b) <html>
+c) <head>
+d) <title>
+Answer: b) <html>
+
+What is the purpose of the <title> element in the <head> section?
+a) It sets the font style for the entire web page.
+b) It defines the main heading of the web page.
+c) It displays the title of the web page in the browser's title bar.
+d) It specifies the language used in the web page.
+Answer: c) It displays the title of the web page in the browser's title bar.
+
+Which HTML element is used to create a hyperlink?
+a) <a>
+b) <link>
+c) <href>
+d) <url>
+Answer: a) <a>
+
+What is the purpose of the <meta> tag in the <head> section?
+a) It specifies the background color of the web page.
+b) It defines the character encoding used in the web page.
+c) It displays a description of the web page in search engine results.
+d) It sets the font style for the entire web page.
+Answer: b) It defines the character encoding used in the web page.
+
+How can you create a paragraph of text in HTML?
+a) Using the <p> element.
+b) Using the <h1> element.
+c) Using the <body> element.
+d) Using the <title> element.
+Answer: a) Using the <p> element.
+
+Which HTML element is used to define the main content of a web page?
+a) <body>
+b) <html>
+c) <head>
+d) <title>
+Answer: a) <body>
+
+
+
+
+
+
+

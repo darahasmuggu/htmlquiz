@@ -1,0 +1,141 @@
+﻿MEDIUM LEVEL:
+
+What does HTML stand for?
+a) Hyperlinks and Text Markup Language
+b) Hyper Transfer Markup Language
+c) Hypertext Markup Language
+d) Home Text Markup Language
+Answer: c) Hypertext Markup Language
+
+Which programming language is used for adding functionality to web pages?
+a) HTML
+b) CSS
+c) JavaScript
+d) PHP
+Answer: c) JavaScript
+
+What is the purpose of CSS?
+a) To define the structure of a web page
+b) To add functionality to a web page
+c) To format and style a web page
+d) To store data in databases
+Answer: c) To format and style a web page
+
+Which of the following is not a popular web browser?
+a) Google Chrome
+b) Mozilla Firefox
+c) Safari
+d) Visual Studio Code
+Answer: d) Visual Studio Code
+
+What is the role of a front-end developer?
+a) Storing data in databases
+b) Designing user interfaces
+c) Building server-side applications
+d) Managing network infrastructure
+Answer: b) Designing user interfaces
+
+Which tool is used for version control in web development?
+a) Git
+b) Subversion
+c) Mercurial
+d) All of the above
+Answer: d) All of the above
+
+What is a URL?
+a) A programming language
+b) A web browser
+c) A resource locator on the internet
+d) A server hosting a website
+Answer: c) A resource locator on the internet
+
+What is the purpose of the HTTP protocol?
+a) To format HTML documents
+b) To transfer data between web servers and clients
+c) To style web pages
+d) To add interactivity to web pages
+Answer: b) To transfer data between web servers and clients
+
+Which front-end framework/library is the most popular?
+a) React
+b) Angular
+c) Vue
+d) All of the above
+Answer: a) React
+
+What is the role of a back-end developer?
+a) Designing user interfaces
+b) Building server-side applications
+c) Styling web pages
+d) Managing network infrastructure
+Answer: b) Building server-side applications
+
+Which language is used for server-side web development?
+a) HTML
+b) CSS
+c) JavaScript
+d) PHP
+Answer: d) PHP
+
+Which protocol is an encrypted version of HTTP?
+a) HTTPS
+b) FTP
+c) SMTP
+d) POP3
+Answer: a) HTTPS
+
+What is the purpose of a web server?
+a) To format HTML documents
+b) To store data in databases
+c) To host and deliver web pages to clients
+d) To add interactivity to web pages
+Answer: c) To host and deliver web pages to clients
+
+Which term refers to the structure of a web page?
+a) HTML
+b) CSS
+c) JavaScript
+d) URL
+Answer: a) HTML
+
+Which language is used for defining the style and appearance of a web page?
+a) HTML
+b) CSS
+c) JavaScript
+d) URL
+Answer: b) CSS
+
+Which language is used for adding interactivity to a web page?
+a) HTML
+b) CSS
+c) JavaScript
+d) URL
+Answer: c) JavaScript
+
+Which front-end framework/library is known for its component-based architecture?
+a) React
+b) Angular
+c) Vue
+d) Bootstrap
+
+What is the purpose of a version control system?
+a) To keep track of project history
+b) To format HTML documents
+c) To host web pages
+d) To add interactivity to web pages
+Answer: a) To keep track of project history
+
+Which term refers to a collection of related web pages?
+a) URL
+b) HTTP
+c) Website
+d) HTML
+Answer: c) Website
+
+Which term refers to a programming technique that allows web pages to dynamically update without a full page reload?
+a) AJAX
+b) API
+c) CMS
+d) SQL
+Answer: a) AJAX
+

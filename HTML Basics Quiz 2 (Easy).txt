@@ -1,0 +1,143 @@
+﻿EASY LEVEL:
+
+What is HTML?
+a) A programming language for creating dynamic websites
+b) A scripting language used for server-side programming
+c) A markup language used for creating web pages
+d) A database management system
+Answer: c) A markup language used for creating web pages
+
+Which of the following is a valid HTML tag?
+a) <head>
+b) <body>
+c) <html>
+d) All of the above
+Answer: d) All of the above
+
+What is the purpose of the <head> tag in HTML?
+a) To define the main content of the web page
+b) To define the title and other metadata of the web page
+c) To define a link to an external stylesheet
+d) To define a link to an external JavaScript file
+Answer: b) To define the title and other metadata of the web page
+
+Which of the following is not a valid HTML element?
+a) <section>
+b) <article>
+c) <paragraph>
+d) <aside>
+Answer: c) <paragraph>
+
+What is the purpose of the <img> tag in HTML?
+a) To create a link to another web page
+b) To display an image on the web page
+c) To create a form on the web page
+d) To define a heading on the web page
+Answer: b) To display an image on the web page
+
+Which of the following is not a valid attribute for the <img> tag in HTML?
+a) src
+b) alt
+c) width
+d) height
+e) text
+Answer: e) text
+
+Which of the following is not a valid way to add style to an HTML element?
+a) Inline style attribute
+b) External stylesheet
+c) Internal stylesheet
+d) HTML <style> tag
+Answer: d) HTML <style> tag
+
+Which of the following is not a valid CSS property for changing the font style of text?
+a) font-size
+b) font-family
+c) font-color
+d) font-weight
+Answer: c) font-color
+
+What is the purpose of the CSS margin property?
+a) To set the width of an element
+b) To set the height of an element
+c) To set the space around an element
+d) To set the space between the content and the border of an element
+Answer: c) To set the space around an element
+
+What is the purpose of the CSS padding property?
+a) To set the width of an element
+b) To set the height of an element
+c) To set the space around an element
+d) To set the space between the content and the border of an element
+Answer: d) To set the space between the content and the border of an element
+
+What is the purpose of using HTML?
+a) To style web pages
+b) To add interactivity to web pages
+c) To create the structure and content of web pages
+d) To enable server-side programming
+Answer: c) To create the structure and content of web pages
+
+Which of the following is not a valid data type in JavaScript?
+a) string
+b) boolean
+c) integer
+d) float
+Answer: c) integer
+
+Which of the following is not a common web development framework?
+a) React
+b) Angular
+c) Django
+d) TensorFlow
+Answer: d) TensorFlow
+
+Which of the following is not a commonly used version control system?
+a) Git
+b) Mercurial
+c) Subversion
+d) Docker
+Answer: d) Docker
+
+What is the purpose of CSS?
+a) To create the structure and content of web pages
+b) To add interactivity to web pages
+c) To style web pages
+d) To enable server-side programming
+Answer: c) To style web pages
+
+Which of the following is not a commonly used back-end programming language?
+a) Java
+b) Python
+c) Ruby
+d) HTML
+Answer: d) HTML
+
+Which of the following is not a common web development tool?
+a) Visual Studio Code
+b) Atom
+c) Eclipse
+d) Microsoft Word
+Answer: d) Microsoft Word
+
+What is the purpose of JavaScript?
+a) To create the structure and content of web pages
+b) To add interactivity to web pages
+c) To style web pages
+d) To enable server-side programming
+Answer: b) To add interactivity to web pages
+
+Which of the following is not a commonly used front-end programming language?
+a) HTML
+b) CSS
+c) JavaScript
+d) PHP
+Answer: d) PHP
+
+Which of the following is not a commonly used database management system?
+a) MySQL
+b) PostgreSQL
+c) Oracle
+d) React
+Answer: d) React
+EASY

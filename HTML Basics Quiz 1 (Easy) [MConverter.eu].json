@@ -1,0 +1,146 @@
+﻿
+
+What is the purpose of the doctype declaration in HTML?
+a) It specifies the version of HTML being used
+b) It declares the type of file being displayed by the browser
+c) It identifies the language of the web page
+d) It defines the opening and closing tags for HTML elements
+Answer: b) It declares the type of file being displayed by the browser
+
+In HTML, what is the purpose of the head section?
+a) It contains the main content of the web page
+b) It defines the layout and design of the web page
+c) It holds information about the page itself, such as the title and language
+d) It displays the header of the web page
+Answer: c) It holds information about the page itself, such as the title and language
+
+Which HTML element is used to create a heading?
+a) <h1>
+b) <header>
+c) <heading>
+d) <title>
+Answer: a) <h1>
+
+What is the purpose of the <p> element in HTML?
+a) It creates a paragraph of text
+b) It defines a hyperlink
+c) It inserts an image
+d) It sets the page title
+Answer: a) It creates a paragraph of text
+
+How is the title of a web page specified in HTML?
+a) Using the <header> element
+b) Using the <title> element within the <head> section
+c) Using the <h1> element
+d) Using the <p> element
+Answer: b) Using the <title> element within the <head> section
+
+What is the purpose of the <body> section in HTML?
+a) It contains the metadata of the web page
+b) It defines the layout and structure of the web page
+c) It holds the content that will be displayed to the user
+d) It specifies the type of file being displayed by the browser
+Answer: c) It holds the content that will be displayed to the user
+
+Which HTML element is used to create a smaller heading?
+a) <h1>
+b) <h2>
+c) <h3>
+d) <small>
+Answer: b) <h2>
+
+What is the purpose of the <meta> tags in HTML?
+a) They define the content of the web page
+b) They specify the font style for the web page
+c) They provide information about the web page, such as keywords and descriptions
+d) They create hyperlinks within the web page
+Answer: c) They provide information about the web page, such as keywords and descriptions
+
+How can you adjust the font size of a paragraph in HTML?
+a) By using the <font> element
+b) By using the <size> attribute within the <p> element
+c) By using the <style> element
+d) By using CSS styles
+Answer: d) By using CSS styles
+
+What is displayed in the title bar of a web browser?
+a) The content of the <body> section
+b) The text within the <h1> element
+c) The title specified in the <title> element
+d) The URL of the web page
+Answer: c) The title specified in the <title> element
+
+What does the <DOCTYPE HTML> declaration specify?
+a) The version of HTML being used
+b) The language of the web page
+c) The opening and closing tags for HTML elements
+d) The type of file being displayed by the browser
+Answer: d) The type of file being displayed by the browser
+
+Which HTML element is used to create a hyperlink?
+a) <a>
+b) <link>
+c) <href>
+d) <url>
+Answer: a) <a>
+
+How do you specify the URL that a hyperlink should link to?
+a) Using the <a> element with the "url" attribute
+b) Using the <link> element with the "href" attribute
+c) Using the <a> element with the "href" attribute
+d) Using the <url> element with the "href" attribute
+Answer: c) Using the <a> element with the "href" attribute
+
+What does the <h2> element represent in HTML?
+a) The main heading of the web page
+b) A secondary heading within a section
+c) A hyperlink
+d) The title of the web page
+Answer: b) A secondary heading within a section
+
+How can you add an image to a web page in HTML?
+a) Using the <img> element with the "source" attribute
+b) Using the <image> element with the "src" attribute
+c) Using the <img> element with the "src" attribute
+d) Using the <image> element with the "source" attribute
+Answer: c) Using the <img> element with the "src" attribute
+
+Which HTML element is used to create a numbered list?
+a) <ul>
+b) <li>
+c) <ol>
+d) <list>
+Answer: c) <ol>
+
+What is the purpose of the <ul> element in HTML?
+a) It creates an unordered list
+b) It defines a table
+c) It represents a paragraph of text
+d) It sets the background color of the web page
+Answer: a) It creates an unordered list
+
+How can you add a line break within a paragraph in HTML?
+a) Using the <break> element
+b) Using the <lb> element
+c) Using the <br> element
+d) Using the <linebreak> element
+Answer: c) Using the <br> element
+
+Which HTML element is used to define a table?
+a) <table>
+b) <tr>
+c) <td>
+d) <th>
+Answer: a) <table>
+
+What is the purpose of the <tr> element in HTML?
+a) It defines a table row
+b) It creates a table heading
+c) It represents a table data cell
+d) It sets the font size of the table
+Answer: a) It defines a table row
+
+
+
+
+
